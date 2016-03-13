@@ -1,0 +1,11 @@
+#IntellIJ/PyCharm files
+.idea/
+
+#Setup files
+build/
+dist/
+pyorangecloud.egg-info/
+
+#Compiled files
+*.pyc
+
